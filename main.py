@@ -4,5 +4,6 @@ def main():
     with Calendar("data.myCal") as newCal:
         newCal.draw()
 
-main()
+if __name__ == "__main__":
+    main()
 

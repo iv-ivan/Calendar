@@ -46,4 +46,4 @@ class Painter(object):
             if len(self.information[i]) > 0:
                 sys.stdout.write('(' + self.information[i][0] + ') - ' + self.information[i])
             print
-        
+  

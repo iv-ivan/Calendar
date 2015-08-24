@@ -16,4 +16,3 @@ class Calendar(object):
         
     def draw(self):
         self.painter.draw(self.events)
-        
